@@ -1,0 +1,5 @@
+{
+  "name": "ScamShield AI",
+  "description": "An AI-powered scam detector and reality checker that analyzes suspicious messages using advanced NLP to protect users from fraud.",
+  "requestFramePermissions": []
+}
